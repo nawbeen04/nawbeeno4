@@ -1,62 +1,66 @@
-# 👋 Hi, I'm Nabin Mishra
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nabin+Mishra!;Computer+Engineering+Student" alt="Typing SVG" />
+</p>
 
-### 🎓 Computer Engineering Student | 🥽 Aspiring VR/AR Innovator
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nawbeen04&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 👨‍💻 About Me
-
-I'm a 22-year-old Computer Engineering student passionate about creating meaningful digital experiences.  
-My interests lie especially in the realms of **Virtual Reality (VR)** and **Augmented Reality (AR)** — the technologies I believe will define the future.
-
-I'm always eager to learn, experiment, and build projects that solve problems or create immersive user experiences.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nawbeen04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-- **Languages:**  
-  - Java ✅  
-  - C++ ✅  
-  - C ✅  
-  - HTML & CSS (Basics)
+Hey there! I'm **Nabin Mishra**, a 22-year-old Computer Engineering student passionate about tech that goes beyond the screen.
 
-- **Currently Exploring:**  
-  - Unity for VR/AR Development  
-  - Creative Coding & Interaction Design  
-  - Immersive UI/UX Design
+🌟 I'm especially fascinated by **Virtual Reality (VR)** and **Augmented Reality (AR)** — the future of immersive interaction.
+
+💡 I believe in learning by doing, and I love experimenting with ideas that blend creativity and code.
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔍 Currently Exploring  
+- Unity for VR/AR Development  
+- Creative Coding & Interaction Design  
+  
 
 ---
 
 ## 🚀 Projects
 
-### 📋 To-Do List App (Java)
-A simple and clean Java GUI app that helps manage daily tasks.  
+### ✅ To-Do List App (Java)
+A simple task manager app using Java GUI.  
 **Features:**
 - Add / delete tasks  
-- Mark tasks as complete  
-- Minimal, user-friendly interface
+- Mark tasks as completed  
+- Minimal UI
 
-> _More projects coming soon..._
+> *More projects coming soon...*
 
 ---
 
 ## 🎯 Interests
 
-- Virtual & Augmented Reality (XR)
-- Game & App Development
-- Futuristic UI/UX
-- Innovation through immersive computing
+- 🥽 Virtual & Augmented Reality (XR)  
+- 🎮 Game & App Development  
+- 🧠 Creative Interaction  
+- 🛠 Tech that blends art and engineering  
 
 ---
 
 ## ⚽ Hobbies
 
-- Watching football (a big fan!)
-- Brainstorming tech ideas
-- Learning new things every day
+- ⚽ Watching football (especially on weekends!)  
+- 💡 Brainstorming ideas  
+- 📚 Lifelong learning  
 
 ---
 
@@ -68,21 +72,24 @@ A simple and clean Java GUI app that helps manage daily tasks.
 
 ## 💬 Quote I Live By
 
-> *“Always eager to learn and build new things, especially in the world of VR and AR.”*
+> *“Always eager to learn and build new things”*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawbeen04&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawbeen04&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nawbeen04&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawbeen04&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
 
 ---
 
-## 🔧 Coming Soon
+## 🚧 Coming Soon
 
-- ✅ Personal Portfolio Website  
-- ✅ GitHub Projects  
-  
-⭐ Thanks for visiting!
+- 🌐 Personal Portfolio Website   
+- 📝 Dev Blog / Learning Logs 
+
+---
+
+<p align="center">⭐ Thanks for visiting! ⭐</p>
