@@ -66,7 +66,7 @@ A simple task manager app using Java GUI.
 
 - ⚽ Watching football (especially on weekends!)
 - <p align="center">
-  <img src="https://media.cnn.com/api/v1/images/stellar/prod/221218171406-30-world-cup-final-1218-messi.jpg?c=16x9&q=h_720,w_1280,c_fill" 
+  <img src="470244354_1126435282211335_2120183881465799980_n.jpg?c=16x9&q=h_720,w_1280,c_fill" 
        alt="Lionel Messi kissing the FIFA World Cup trophy after Argentina's victory in 2022" 
        width="600"/>
 </p>
