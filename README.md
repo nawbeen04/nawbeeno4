@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nabin+Mishra!;Computer+Engineering+Student" alt="Typing SVG" />
 </p>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/name.svg/main/nabinmishra.svg" alt="Nabin Mishra" />
+  <img src="download.png" alt="Nabin Mishra" />
 </h1>
 
 
