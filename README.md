@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nabin+Mishra!;Computer+Engineering+Student" alt="Typing SVG" />
 </p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/name.svg/main/nabinmishra.svg" alt="Nabin Mishra" />
+</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nawbeen04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -21,11 +25,13 @@ Hey there! I'm **Nabin Mishra**, a 22-year-old Computer Engineering student pass
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+</p>
 
 ### 🔍 Currently Exploring  
 - Unity for VR/AR Development  
@@ -58,7 +64,12 @@ A simple task manager app using Java GUI.
 
 ## ⚽ Hobbies
 
-- ⚽ Watching football (especially on weekends!)  
+- ⚽ Watching football (especially on weekends!)
+- <p align="center">
+  <img src="https://media.cnn.com/api/v1/images/stellar/prod/221218171406-30-world-cup-final-1218-messi.jpg?c=16x9&q=h_720,w_1280,c_fill" 
+       alt="Lionel Messi kissing the FIFA World Cup trophy after Argentina's victory in 2022" 
+       width="600"/>
+</p>
 - 💡 Brainstorming ideas  
 - 📚 Lifelong learning  
 
