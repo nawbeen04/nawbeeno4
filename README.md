@@ -5,7 +5,7 @@
   <img src="download.png" alt="Nabin Mishra" />
 </h1>
 <h1 align="center">
-  <img src="" alt="Nabin Mishra" />
+  <img src="IMG_20231106_185538.jpg" alt="Nabin Mishra" />
 </h1>
 
 
